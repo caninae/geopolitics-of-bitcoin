@@ -1,8 +1,9 @@
-The Geopolitics of Bitcoin
-----------------------------
+---------------------------------------------------------------------------------------------------------------
+The Geopolitics of Bitcoin ------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 
-
-## Epics
+Epics
+----------
 
 ### Segwit2X [2017]
 - https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-November/000627.html
@@ -12,6 +13,10 @@ The Geopolitics of Bitcoin
 
 
 ### UASF
+- https://en.bitcoin.it/w/index.php?title=Segwit_support&action=history
+- https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-June/014498.html
+- http://archive.is/9AZcm
+- http://archive.is/Dd21S
 
 
 ### China Bans [2017]
@@ -58,7 +63,18 @@ The Geopolitics of Bitcoin
 
 ### Silkroad [2013]
 
-## Events (non-Epic)
+
+Characters
+-----------
+
+### Emin-Gun Sirer
+- https://web.archive.org/web/20171108032922/https://twitter.com/el33th4xor/status/762703060053422082
+- https://web.archive.org/web/20170204170613/https://news.ycombinator.com/item?id=7892090
+- https://web.archive.org/web/20131105222318/http://hackingdistributed.com/2013/11/04/bitcoin-is-broken/
+
+
+Interesting Events
+-------------------
 
 ### Sybil Attack 
 - https://bitcointalk.org/index.php?topic=978088.msg10756505#msg10756505
