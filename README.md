@@ -76,18 +76,7 @@ Epics
 - 2013
 
 
-Characters
------------
-
-### Emin-Gun Sirer
-- https://web.archive.org/web/20171108032922/https://twitter.com/el33th4xor/status/762703060053422082
-- https://web.archive.org/web/20170204170613/https://news.ycombinator.com/item?id=7892090
-- https://web.archive.org/web/20131105222318/http://hackingdistributed.com/2013/11/04/bitcoin-is-broken/
-
-
-Interesting Events
--------------------
-
+### Misc
 - Sybil Attack [2013] https://web.archive.org/web/20150313063923/https://bitcointalk.org/index.php?topic=978088.msg10756505
 - Satoshi Dice [2012] https://en.bitcoin.it/wiki/Satoshi_Dice
 - "3 Months Living in a Chinese Bitcoin Mine" [2015] https://web.archive.org/web/20150810155115/https://bitcointalk.org/index.php?topic=1072474.0
