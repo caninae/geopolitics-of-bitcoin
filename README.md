@@ -7,7 +7,8 @@ Epics
 
 ### Segwit2X [2017]
 - https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-November/thread.html#627
-
+- https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-November/000685.html
+- https://imgur.com/a/k4PT7
 
 ### Bitcoin Cash [2017]
 - http://en.bitcoinwiki.org/Bitcoin_Cash
