@@ -88,10 +88,7 @@ Characters
 Interesting Events
 -------------------
 
-### Sybil Attack 
-- https://bitcointalk.org/index.php?topic=978088.msg10756505#msg10756505
-
-
-### Satoshi Dice
-
+- Sybil Attack [2013] https://web.archive.org/web/20150313063923/https://bitcointalk.org/index.php?topic=978088.msg10756505
+- Satoshi Dice [2012] https://en.bitcoin.it/wiki/Satoshi_Dice
+- "3 Months Living in a Chinese Bitcoin Mine" [2015] https://web.archive.org/web/20150810155115/https://bitcointalk.org/index.php?topic=1072474.0
 
